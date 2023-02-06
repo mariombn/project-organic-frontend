@@ -4,9 +4,11 @@ import createPersistedState from 'vuex-persistedstate';
 import App from './App.vue';
 import vuetify from './plugins/vuetify';
 import axios from './plugins/axios';
+import DatetimePicker from 'vuetify-datetime-picker'
 import router from '@/router';
 
 Vue.use(Vuex);
+Vue.use(DatetimePicker)
 Vue.config.productionTip = false;
 
 const store = new Vuex.Store({
