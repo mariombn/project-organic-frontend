@@ -1,4 +1,6 @@
-# rpg-sheet-client
+# project-organic-frontend
+
+Projeto para organização pessoal baseado no notion do Reservatório de Dopamina
 
 ## Project setup
 ```
@@ -23,6 +25,3 @@ npm run build
 ```
 npm run lint
 ```
-
-## Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
